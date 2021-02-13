@@ -4,12 +4,16 @@ A package for Laravel with a single function for a shorter and fast way to work 
 
 ## Install
 
-## Install directly
+### Install via Packagist
 
-Setup from GitHub directly in composer.json:
+...Todo...
+
+### Install via Git-Repo
+
+Add the following to ```composer.json```:
 ```json
 {
-    ...
+    
     "repositories": [
         {
             "type": "git",
@@ -19,7 +23,7 @@ Setup from GitHub directly in composer.json:
     "require": {
         "bitfertig/laravel-carbon-function": "dev-main"
     }
-    ...
+
 }
 ```
 
