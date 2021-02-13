@@ -1,4 +1,4 @@
-# bitfertig/laravel-options
+# bitfertig/laravel-carbon-function
 
 A package for Laravel with a single function for a shorter and fast way to work with Carbon.
 
