@@ -1,6 +1,7 @@
 {
     "name": "bitfertig/laravel-options",
     "description": "A key-value-store package for Laravel.",
+    "version": "0.0.1",
     "type": "library",
     "homepage": "https://github.com/Bitfertig/laravel-options",
     "keywords": [
