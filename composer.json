@@ -1,11 +1,12 @@
 {
-    "name": "bitfertig/laravel-options",
-    "description": "A key-value-store package for Laravel.",
-    "type": "library",
-    "homepage": "https://github.com/Bitfertig/laravel-options",
+    "name": "bitfertig/laravel-carbon-function",
+    "description": "A package for Laravel to provide a single Carbon function.",
+    "type": "package",
+    "homepage": "https://github.com/Bitfertig/laravel-carbon-function",
     "keywords": [
-        "options",
-        "key value store",
+        "carbon",
+        "carbonize",
+        "function",
         "laravel"
     ],
     "require": {
