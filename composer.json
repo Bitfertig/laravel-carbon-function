@@ -25,5 +25,7 @@
             "name": "Aurelian Hermand",
             "email": "aurel@hermand.de"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
