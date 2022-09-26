@@ -1,6 +1,5 @@
 {
     "name": "bitfertig/laravel-carbon-function",
-    "version": "1.0.0",
     "description": "A package for Laravel to provide a single Carbon function.",
     "homepage": "https://github.com/Bitfertig/laravel-carbon-function",
     "keywords": [
